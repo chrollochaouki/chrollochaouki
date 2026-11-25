@@ -1,16 +1,30 @@
-## Hi there 👋
+# Chaouki Arache
 
-<!--
-**chrollochaouki/chrollochaouki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Engineering student (Data Science & Big Data) at the International University of Casablanca.
+I build data pipelines: ingestion, modeling, orchestration and BI.
 
-Here are some ideas to get you started:
+**Open to:** PFE end-of-studies internship 2027 · Data Engineering / Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+- **Data:** Python · SQL · PostgreSQL · MySQL/MariaDB · Apache Airflow · pandas · SQLAlchemy · Metabase
+- **Infra:** Docker · Docker Compose · Linux · Git
+- **Backend / Web:** Java · Spring Boot · Flask · React · TypeScript · MongoDB
+- **Learning now:** Apache Spark · Kafka · dbt · AWS
+
+## Featured projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [LogGuard](https://github.com/PFA-UIC-2026/LogGuard) | Team platform for log-based anomaly detection and self-healing. **My part:** Spring Boot backend, JWT authentication, log ingestion API. | Java, Spring Boot, Docker |
+| [fracture-xray-frontend](https://github.com/chrollochaouki/fracture-xray-frontend) | X-ray fracture detection platform. **My part:** React/TypeScript frontend, MongoDB schema design, UML architecture. | React, TypeScript, MongoDB |
+| [task-management-api](https://github.com/chrollochaouki/task-management-api) | REST API for task management. | Java, Spring Boot |
+
+## Experience
+
+- **Data Engineering Intern**, Casablanca (2026): built a GLPI → BI pipeline on 34k+ real helpdesk tickets (extraction, SLA modeling, star schema, Airflow, dashboards).
+- **Software Developer**, VINCI Energies / Axians (2025): invoice tracking and client reminder app (Flask, SQLAlchemy, APScheduler).
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/chaouki-arache-35abba35b) · arachechaouki7@gmail.com
