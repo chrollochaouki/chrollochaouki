@@ -24,7 +24,7 @@ I build data pipelines: ingestion, modeling, orchestration and BI.
 ## Experience
 
 - **Data Engineering Intern**, Casablanca (2026): built a GLPI → BI pipeline on 34k+ real helpdesk tickets (extraction, SLA modeling, star schema, Airflow, dashboards).
-- **Software Developer**, VINCI Energies / Axians (2025): invoice tracking and client reminder app (Flask, SQLAlchemy, APScheduler).
+- **Software Developer Intern**, VINCI Energies / Axians (2025): invoice tracking and client reminder app (Flask, SQLAlchemy, APScheduler).
 
 ## Contact
 
